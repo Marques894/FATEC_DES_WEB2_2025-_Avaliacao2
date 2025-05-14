@@ -28,5 +28,5 @@ Um agradecimento especial ao professor [Orlando Saraiva](https://github.com/orla
 Agora você pode visualizar e testar o projeto localmente! 🚀
 
 ## ⏳ Tempo Gasto
-Total: Processando...
+Total: 13:00 horas
 
